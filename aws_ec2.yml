@@ -1,0 +1,6 @@
+plugin: aws_ec2
+region: eu-west-2
+
+
+groups:
+  webserver: "'sonarqube' in tags.Name"
