@@ -1,11 +1,11 @@
 ---
 roles:
-  - src: git@gitlab.com:lamtech-tooling/ansible-roles/ansible-role-java.git
+  - src: git@github.com:emmanuelcodes2020/ansible-role-java.git
     name: ansible-role-java
     scm: git
     version: main
 
-  - src: git@gitlab.com:lamtech-tooling/ansible-roles/ansible-role-sonarqube.git
+  - src: git@github.com:emmanuelcodes2020/ansible-role-sonarqube.git
     name: ansible-role-sonarqube
     scm: git
     version: main
